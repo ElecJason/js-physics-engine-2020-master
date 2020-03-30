@@ -20,4 +20,4 @@ function anime()
 	point.draw(context);	
 }
 
-setInterval(anime, 1);
+setInterval(anime, 10);
